@@ -5,7 +5,7 @@
 
 
 ## In-Context Learning
-- **[GPT3]** Language Models are Few-Shot Learners
+- **[GPT3]** [[Language Models are Few-Shot Learners]](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 - Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
 - Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers
 - Transformers learn in-context by gradient descent
