@@ -2,6 +2,7 @@
 
 - [[深入理解语言模型的突现能力]](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
 - [[拆解追溯 GPT-3.5 各项能力的起源]](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [[Towards Complex Reasoning: the Polaris of Large Language Models]](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)
 
 
 ## In-Context Learning
