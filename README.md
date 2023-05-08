@@ -5,19 +5,19 @@
 
 
 ## In-Context Learning
-- **[GPT3]** [[Language Models are Few-Shot Learners]](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
-- Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
-- Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers
-- Transformers learn in-context by gradient descent
-- Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning
+- **[GPT3]** [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf), NeurIPS 2020
+- [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://aclanthology.org/2022.acl-long.556/), ACL2022
+- [Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/abs/2212.10559)
+- [Transformers learn in-context by gradient descent](https://arxiv.org/abs/2212.07677)
+- [Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning](https://arxiv.org/abs/2301.11916)
 
 
 ## Instruction tuning
-- **[InstructGPT]** Training language models to follow instructions with human feedback
-- **[T0]** MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION
-- **[Flan-T5/PaLM]** Scaling Instruction-Finetuned Language Models
-- **[Flan2020]** The Flan Collection: Designing Data and Methods for Effective Instruction Tuning
-- InstructDial: Improving Zero and Few-shot Generalization in Dialogue
+- **[InstructGPT]** [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf), NeurIPS 2022
+- **[T0]** [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://openreview.net/pdf?id=9Vrb9D0WI4), ICLR2022
+- **[Flan-T5/PaLM]** [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+- **[Flan2020]** [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/abs/2301.13688)
+- [InstructDial: Improving Zero and Few-shot Generalization in Dialogue](https://aclanthology.org/2022.emnlp-main.33/), EMNLP2022
 
 ## Chain of Thought
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
@@ -29,7 +29,6 @@
 
 ## Generated Data/Instruction/Knowledge
 - Generated Knowledge Prompting for Commonsense Reasoning
-
 - Generating Training Data with Language Models: Towards Zero-Shot Language Understanding
 - SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions
 - GENERATE RATHER THAN RETRIEVE: LARGE LANGUAGE MODELS ARE STRONG CONTEXT GENERATORS
