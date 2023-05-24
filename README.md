@@ -29,7 +29,7 @@
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 - [Complexity-Based Prompting for Multi-Step Reasoning](https://arxiv.org/abs/2210.00720)
 
-## Generated Data/Instruction/Knowledge
+## Data Augmentation with LLMs
 - [Generated Knowledge Prompting for Commonsense Reasoning](https://aclanthology.org/2022.acl-long.225/),ACL2022
 - [Generating Training Data with Language Models: Towards Zero-Shot Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2022/file/0346c148ba1c21c6b4780a961ea141dc-Paper-Conference.pdf), NeurIPS2022
 - [SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
